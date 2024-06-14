@@ -14,7 +14,7 @@ I will be using the following programming languages to solve the challenges:
 
 ## Repository Structure
 
-The challenges are further organized by difficulty levels: Basic, Intermediate, and Advanced.
+The challenges are further organized by difficulty levels: Basic, Intermediate and Advanced.
 
 
 
